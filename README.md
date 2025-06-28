@@ -17,10 +17,6 @@ A React + Vite project to document memorable travel experiences. The app display
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## 📸 Screenshots
-
-*(You can upload images in your GitHub repo and link them here)*
-
 ## 🧪 How to Run Locally
 
 ```bash
