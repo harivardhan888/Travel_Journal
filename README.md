@@ -2,7 +2,7 @@
 
 A React + Vite project to document memorable travel experiences. The app displays journal entries with beautiful images, locations, and descriptions in a card-based layout.
 
-**Live Demo:** 👉 [travel-journal-hari.vercel.app](travel-journal-hari.vercel.app)
+**Live Demo:** 👉 [travel-journal-hari.vercel.app](https://travel-journal-hari.vercel.app)
 
 ## 🚀 Features
 
