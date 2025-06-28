@@ -1,12 +1,38 @@
-# React + Vite
+# 🌍 Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite project to document memorable travel experiences. The app displays journal entries with beautiful images, locations, and descriptions in a card-based layout.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📍 Location info with clickable map links
+- 📸 Travel image gallery
+- 📝 Descriptive journal entries
+- 💡 Responsive design
+- ⚡ Fast build & reload using Vite
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## 📸 Screenshots
+
+*(You can upload images in your GitHub repo and link them here)*
+
+## 🧪 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/harivardhan888/Travel_Journal.git
+
+# Navigate into the project directory
+cd Travel_Journal
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
